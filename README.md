@@ -1,2 +1,11 @@
 # restaurant-reviews
- A restauraunt review application. This project uses MongoDb for the database, Java and Spring Boot for the backend, and React for the frontend.  Based on this guide: https://youtu.be/5PdEmeopJVQ
+ A restaurant review application. Includes front end, back end and database.
+
+
+Database: MongoDb
+
+Back end: Java and Spring Boot
+
+Front end: React
+
+Adapted from this guide: https://youtu.be/5PdEmeopJVQ
