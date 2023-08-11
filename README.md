@@ -3,14 +3,14 @@
 
 A restaurant review application. Includes front end, back end and database.
 
-**Database:** MongoDb
-**Back end:** Java and Spring Boot
+**Database:** MongoDB  
+**Back end:** Java and Spring Boot  
 **Front end:** React
 
-*Back end*
+*Back end*  
 The backend application is divided into three layers, the service layer, the data access layer, and the API layer.
 
-*Front end*
+*Front end*  
 TODO: Will make front end with React.
 
 ## To run:
