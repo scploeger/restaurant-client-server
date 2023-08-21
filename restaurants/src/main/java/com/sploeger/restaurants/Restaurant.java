@@ -6,6 +6,7 @@ import lombok.NoArgsConstructor;
 import org.bson.types.ObjectId;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
+import org.springframework.data.mongodb.core.mapping.DocumentReference;
 
 import java.util.List;
 
@@ -23,6 +24,7 @@ public class Restaurant {
     private String priceRange;
     private List<String> menuItems;
     private List<String> images;
-
+    @DocumentReference // this will tell the database to store only IDs of reviews, and reviews will be in a separate collection
+    private List<Reviews> reviewIDs;
 
 }
