@@ -1,7 +1,7 @@
 [
     {
       "name": "China Food",
-      "cusine": "Chinese",
+      "cuisine": "Chinese",
       "address": "854 Millwood Rd.",
       "phoneNum": "+14164213833",
       "priceRange": "$",
@@ -18,7 +18,7 @@
     },
     {
       "name": "McDonald's",
-      "cusine": "Fast Food",
+      "cuisine": "Fast Food",
       "address": "1966 Eglinton Ave. E",
       "phoneNum": "+14167528236",
       "priceRange": "$",
@@ -35,7 +35,7 @@
     },
     {
       "name": "Hollywood Gelato",
-      "cusine": "Gelato",
+      "cuisine": "Gelato",
       "address": "1640 Bayview Ave.",
       "phoneNum": "+14165449829",
       "priceRange": "$$",

@@ -17,6 +17,7 @@ import java.util.List;
 public class Restaurant {
     @Id // let spring framework know that this is the unique identifier for each restaurant
     private ObjectId id;
+    private String restId;
     private String name;
     private String cuisine;
     private String address;
@@ -25,6 +26,6 @@ public class Restaurant {
     private List<String> menuItems;
     private List<String> images;
     @DocumentReference // this will tell the database to store only IDs of reviews, and reviews will be in a separate collection
-    private List<Reviews> reviewIDs;
+    private List<Review> reviewIDs;
 
 }
