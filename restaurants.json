@@ -1,53 +1,53 @@
 [
-    {
-      "name": "China Food",
-      "cuisine": "Chinese",
-      "address": "854 Millwood Rd.",
-      "phoneNum": "+14164213833",
-      "priceRange": "$",
-      "menuItems": [
-        "Fried Rice",
-        "Chicken Balls",
-        "Egg Rolls"
-      ],
-      "images": [
-        "https://www.chinafood.ca/images/restaurant/chinafoodrestaurant.jpg",
-        "https://10619-2.s.cdn12.com/rests/original/506_47628891.jpg"
-      ],
-      "reviewIds": []
-    },
-    {
-      "name": "McDonald's",
-      "cuisine": "Fast Food",
-      "address": "1966 Eglinton Ave. E",
-      "phoneNum": "+14167528236",
-      "priceRange": "$",
-      "menuItems": [
-        "Big Mac",
-        "Chicken McNuggets",
-        "Junior Chicken"
-      ],
-      "images": [
-        "https://fastly.4sqi.net/img/general/600x600/12206799_GVuDiuNLyc3_FC3xIN8bQSrmAwtdRawdxGLREgItcec.jpg",
-        "https://10619-2.s.cdn12.com/rests/original/407_503780723.jpg"
-      ],
-      "reviewIds": []
-    },
-    {
-      "name": "Hollywood Gelato",
-      "cuisine": "Gelato",
-      "address": "1640 Bayview Ave.",
-      "phoneNum": "+14165449829",
-      "priceRange": "$$",
-      "menuItems": [
-        "Gelato",
-        "Cappucino",
-        "Milshake"
-      ],
-      "images": [
-        "https://www.blogto.com/listings/restaurants/upload/2011/07/20110622-hollywood%20gelato-2.jpg",
-        "https://bayviewleasidebia.com/wp-content/uploads/2022/08/GerardRICHARDSON-FINAL_20221117-Bayview-Leaside-BIA-Project_WEB-17.jpg"
-      ],
-      "reviewIds": []
-    }
-  ]
+  {
+    "name": "China Food",
+    "cuisine": "Chinese",
+    "address": "854 Millwood Rd.",
+    "phoneNum": "+14164213833",
+    "priceRange": "$",
+    "menuItems": [
+      "Fried Rice",
+      "Chicken Balls",
+      "Egg Rolls"
+    ],
+    "images": [
+      "https://www.chinafood.ca/images/restaurant/chinafoodrestaurant.jpg",
+      "https://10619-2.s.cdn12.com/rests/original/506_47628891.jpg"
+    ],
+    "reviewIds": []
+  },
+  {
+    "name": "McDonald's",
+    "cuisine": "Fast Food",
+    "address": "1966 Eglinton Ave. E",
+    "phoneNum": "+14167528236",
+    "priceRange": "$",
+    "menuItems": [
+      "Big Mac",
+      "Chicken McNuggets",
+      "Junior Chicken"
+    ],
+    "images": [
+      "https://fastly.4sqi.net/img/general/600x600/12206799_GVuDiuNLyc3_FC3xIN8bQSrmAwtdRawdxGLREgItcec.jpg",
+      "https://10619-2.s.cdn12.com/rests/original/407_503780723.jpg"
+    ],
+    "reviewIds": []
+  },
+  {
+    "name": "Hollywood Gelato",
+    "cuisine": "Gelato",
+    "address": "1640 Bayview Ave.",
+    "phoneNum": "+14165449829",
+    "priceRange": "$$",
+    "menuItems": [
+      "Gelato",
+      "Cappucino",
+      "Milshake"
+    ],
+    "images": [
+      "https://www.blogto.com/listings/restaurants/upload/2011/07/20110622-hollywood%20gelato-2.jpg",
+      "https://bayviewleasidebia.com/wp-content/uploads/2022/08/GerardRICHARDSON-FINAL_20221117-Bayview-Leaside-BIA-Project_WEB-17.jpg"
+    ],
+    "reviewIds": []
+  }
+]

@@ -20,14 +20,15 @@ import java.util.Optional;
 public class RestaurantController {
     @Autowired
     private RestaurantService restaurantService;
+
     @GetMapping
-    public  ResponseEntity<List<Restaurant>> getAllRestaurants(){
-        return new ResponseEntity<List<Restaurant>>(restaurantService.allRestaurants(), HttpStatus.OK);
+    public ResponseEntity<List<Restaurant>> getRestaurants() {
+        return new ResponseEntity<List<Restaurant>>(restaurantService.findAllRestaurants(), HttpStatus.OK);
     }
 
 
-    @GetMapping("/{RestId}")
-    public ResponseEntity<Optional<Restaurant>> getSingleRestaurant(@PathVariable String RestId) {
-        return new ResponseEntity<Optional<Restaurant>>(restaurantService.singleRestaurant(RestId), HttpStatus.OK);
+    @GetMapping("/{restId}")
+    public ResponseEntity<Optional<Restaurant>> getSingleRestaurant(@PathVariable String restId) {
+        return new ResponseEntity<Optional<Restaurant>>(restaurantService.findRestaurantByRestId(restId), HttpStatus.OK);
     }
 }

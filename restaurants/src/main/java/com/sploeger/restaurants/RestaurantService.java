@@ -13,12 +13,13 @@ import java.util.Optional;
 @Service
 public class RestaurantService {
     @Autowired // tells spring that we want to instantiate this RestuaurantRepository class
-    private RestaurantRepository restaurantRepository;
-    public List<Restaurant> allRestaurants(){
-        return restaurantRepository.findAll();
+    private RestaurantRepository repository;
+
+    public List<Restaurant> findAllRestaurants() {
+        return repository.findAll();
     }
 
-    public Optional<Restaurant> singleRestaurant(String RestId){
-        return restaurantRepository.findRestaurantByRestId(RestId);
+    public Optional<Restaurant> findRestaurantByRestId(String restId) {
+        return repository.findRestaurantByRestId(restId);
     }
 }
