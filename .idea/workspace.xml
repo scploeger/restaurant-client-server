@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86bc2e09-5d77-4310-a874-ad0f6ec6e237" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/restaurant-client-server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurants.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurants/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurants/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurants/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurants/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurants/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurants/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurants/src/main/java/com/sploeger/restaurants/Restaurant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurants/src/main/java/com/sploeger/restaurants/RestaurantController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurants/src/main/java/com/sploeger/restaurants/RestaurantRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurants/src/main/java/com/sploeger/restaurants/RestaurantService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurants/src/main/java/com/sploeger/restaurants/RestaurantsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurants/src/main/java/com/sploeger/restaurants/Review.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurants/src/main/java/com/sploeger/restaurants/ReviewController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurants/src/main/java/com/sploeger/restaurants/ReviewRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurants/src/main/java/com/sploeger/restaurants/ReviewService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurants/src/main/resources/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurants/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurants/src/test/java/com/sploeger/restaurants/RestaurantsApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2VOom0573VRNOEWM7tiNQGD6VP8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Spencer/Documents/GitHub/restaurant-client-server/Back end",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86bc2e09-5d77-4310-a874-ad0f6ec6e237" name="Changes" comment="" />
+      <created>1694716644247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694716644247</updated>
+      <workItem from="1694716645475" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
